@@ -1,2 +1,2 @@
 def metodo ():
-	print "esto es una prueba"
+	print "ultimo print cambiado"
